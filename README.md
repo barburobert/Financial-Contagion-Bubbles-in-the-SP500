@@ -105,8 +105,8 @@ The framework therefore helps separate:
 ## Repository structure
 
 The repository contains the Python script used in the analysis, the final HTML output, the README file, and the dataset in both text and Excel format.
--SP.txt
--SP.xlsx
--BubblecontagionSP500.ipynb
--BubblecontagionSP500.html
+- SP.txt
+- SP.xlsx
+- BubblecontagionSP500.ipynb
+- BubblecontagionSP500.html
 -README.md
