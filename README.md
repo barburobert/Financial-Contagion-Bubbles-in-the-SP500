@@ -104,9 +104,10 @@ The framework therefore helps separate:
 
 ## Repository structure
 
-The repository contains the Python script used in the analysis, the final HTML output, the README file, and the dataset in both text and Excel format.
-- SP.txt
-- SP500.xlsx
-- BubblecontagionSP500.ipynb
-- BubblecontagionSP500.html
--README.md
+The repository contains the dataset used in the analysis, the Python notebook, the final HTML output, and the README file. The file `SP.txt` is the input dataset that must be uploaded into Python/Google Colab when running the analysis.
+
+- `SP.txt` – input dataset used in Python/Google Colab
+- `SP500.xlsx` – dataset in Excel format
+- `BubblecontagionSP500.ipynb` – Python notebook containing the full analysis
+- `BubblecontagionSP500.html` – exported HTML version of the notebook
+- `README.md` – project description and methodology
