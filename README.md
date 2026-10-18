@@ -1,4 +1,14 @@
 # Detecting Explosive Price Dynamics and Financial Contagion in the S&P 500
+### Author: Robert-Florian Barbu
+## Main findings
+
+The results indicate that the 2008–2009 crisis was the only clearly dominant explosive episode in the sample. In that period, the GSADF statistic exceeded the 95% and 99% bootstrap critical values, providing the strongest evidence of abnormal market dynamics.
+
+Earlier spikes, especially before 2008, and the more recent upward movements after 2020 are still relevant, but they remain weaker from a statistical point of view. These periods are better interpreted as signs of speculative pressure or renewed market tension rather than as fully confirmed bubble episodes.
+
+The EXCF indicator confirms this interpretation: the 2008–2009 episode is the only one entering the strongest regime of potential bubbles, while most other highlighted intervals remain in the speculative pressure zone.
+
+The contagion indicator leads to the same conclusion. It identifies the global financial crisis as the only clear regime of potential financial contagion, whereas other periods show only moderate fragility rather than systemic contagion of comparable intensity.
 
 ## Overview
 
@@ -82,15 +92,7 @@ The contagion map distinguishes between:
 - `Fragile system`
 - `Potential contagion`
 
-## Main findings
 
-The results indicate that the 2008–2009 crisis was the only clearly dominant explosive episode in the sample. In that period, the GSADF statistic exceeded the 95% and 99% bootstrap critical values, providing the strongest evidence of abnormal market dynamics.
-
-Earlier spikes, especially before 2008, and the more recent upward movements after 2020 are still relevant, but they remain weaker from a statistical point of view. These periods are better interpreted as signs of speculative pressure or renewed market tension rather than as fully confirmed bubble episodes.
-
-The EXCF indicator confirms this interpretation: the 2008–2009 episode is the only one entering the strongest regime of potential bubbles, while most other highlighted intervals remain in the speculative pressure zone.
-
-The contagion indicator leads to the same conclusion. It identifies the global financial crisis as the only clear regime of potential financial contagion, whereas other periods show only moderate fragility rather than systemic contagion of comparable intensity.
 
 ## Interpretation
 
